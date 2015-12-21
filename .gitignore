@@ -19,6 +19,8 @@ $RECYCLE.BIN/
 #Debug/
 #Release/
 
+x64/
+
 *.sdf
 
 # Windows shortcuts
