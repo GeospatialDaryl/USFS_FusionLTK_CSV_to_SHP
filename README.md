@@ -15,4 +15,4 @@ The tool is used by passing two arguments at the command line:
 1. name_of_output.csv or /full/path/to/output.csv
 2. name_of_output.shp or /full/path/to/output.shp
 
-Please send but reports to daryl_van_dyke@fws.gov
+Please send gut reports to daryl_van_dyke@fws.gov
